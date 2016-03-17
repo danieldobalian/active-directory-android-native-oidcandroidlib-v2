@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OIDCAndroidLib/oidclib/oidclib.iml" filepath="$PROJECT_DIR$/OIDCAndroidLib/oidclib/oidclib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OIDCAndroidLib/oidclib-sample/oidclib-sample.iml" filepath="$PROJECT_DIR$/OIDCAndroidLib/oidclib-sample/oidclib-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapp/myapp.iml" filepath="$PROJECT_DIR$/myapp/myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scratch-android.iml" filepath="$PROJECT_DIR$/scratch-android.iml" />
     </modules>
   </component>
 </project>
