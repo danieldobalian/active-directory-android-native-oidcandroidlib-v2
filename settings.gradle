@@ -1,0 +1,3 @@
+include ':oidclib', ':oidclib-sample'
+project(':oidclib').projectDir = new File('OIDCAndroidLib/oidclib')
+project(':oidclib-sample').projectDir = new File('OIDCAndroidLib/oidclib-sample')
