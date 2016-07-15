@@ -24,7 +24,7 @@
     try changing it to `offline`. -->
     <string-array name="oidc_scopes">
         <item>openid</item>
-        <item>https://graph.microsoft.com/User.ReadBasic.All</item>
+        <item>https://graph.microsoft.com/User.Read</item>
         <item>offline_access</item>
     </string-array>
     <!-- The authorization flow type that determine the response_type authorization request should
